@@ -4,6 +4,10 @@
 
 本仓库是 [优雅地用 Zotero 进行文献管理和论文写作](https://github.com/redleafnew/Zotero_introduction) 的在线版本，本库将上游 Tex 转换为 Markdown ，进而生成静态页面以便于阅读。
 
+## 状态
+
+2023-09-07: 已有 zotero-chinese/wiki 文档，本库已失去维护必要性。获取 Zotero 中文文档请访问：<https://zotero-chinese.com>.
+
 ## 阅读
 
 请访问 [https://northword.github.io/zotero-intro-md](https://northword.github.io/zotero-intro-md) 。
